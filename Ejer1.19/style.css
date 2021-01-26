@@ -1,0 +1,41 @@
+.info {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.direccion-info {
+    margin-top: 50px;
+}
+
+.imagen-info {
+    height: 150;
+}
+
+.estudio {
+    display: flex;
+    justify-content: space-evenly
+
+}
+
+.Informatica-estudio {
+    margin-top: 30px;
+}
+
+.Programacion-estudio {
+    margin-top: 35px;
+}
+
+.idiomas {
+    align-content: center;
+    align-items: center;
+}
+
+.Varios{
+    display: flex;
+    justify-content: space-evenly
+
+}
+
+.elementos {
+    margin-left: 130px;
+}
