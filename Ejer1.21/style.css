@@ -1,0 +1,83 @@
+.cuerpo{
+    margin-right: 150px;
+}
+.info {
+    display: flex;
+    justify-content: space-evenly;
+}
+.email {
+    display: flex;   
+}
+
+.direccion-info {
+    margin-top: 50px;
+}
+
+.imagen-info {
+    height: 150;
+}
+
+.estudio {
+    display: flex;
+    justify-content: space-evenly
+
+}
+
+.Informatica-estudio {
+    margin-top: 30px;
+}
+
+.Programacion-estudio {
+    margin-top: 35px;
+}
+
+.idiomas {
+    align-content: center;
+    align-items: center;
+}
+
+.Varios{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 130px;
+}
+
+.elementos {
+    margin-left: 130px;
+}
+
+.boton{
+    display: flex;
+    justify-content: space-evenly;
+}
+.resumen{
+    margin-left: 130px;
+    color: rgb(16, 170, 16);
+    margin-right: 650px;
+    font-size: 1cm;
+    margin-right: auto;
+
+}
+
+.demo{
+    
+    color: red;
+}
+.enlace {
+    
+    border:5px;
+    padding:5px;
+    margin-left :150px;
+    text-decoration:underline;
+    background:none;
+    color: blue;
+    font-family: arial, sans-serif;
+    font-size:x-large;
+}
+  
+.enlace:hover {
+    text-decoration:chocolate  ;
+    color: red;
+    cursor:pointer;
+}
